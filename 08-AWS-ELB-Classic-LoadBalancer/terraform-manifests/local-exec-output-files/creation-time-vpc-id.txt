@@ -1,0 +1,1 @@
+VPC created on seg 16 jan 2023 18:40:37 -03 and VPC ID: vpc-0679a1a0a2c81ba8a
