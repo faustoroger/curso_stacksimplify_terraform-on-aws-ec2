@@ -33,4 +33,6 @@ override.tf.json
 
 *.pem
 *.ppk
-07-AWS-EC2Instance-and-SecurityGroups/terraform-manifests/local-exec-output-files/destroy-time-prov.txt
+
+*creation-time-vpc-id.txt
+*destroy-time-prov.txt
